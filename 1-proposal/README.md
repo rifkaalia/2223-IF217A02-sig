@@ -21,7 +21,7 @@ UUID | string | ooj73849r734mf34r3
 Area_id | string | 501397
 Lat | string | 5.54491
 Long | string | 95.34312
-🌏 Koordinat | poin | [95.34312 5.54491]
+🌏 Koordinat | poin | [95.34312, 5.54491]
 Kode_prakiraan | string | 60
 
 ### Gempa
